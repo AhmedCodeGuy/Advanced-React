@@ -3,9 +3,6 @@ const Sell = props => {
   return (
     <div>
       <p>Sell!</p>
-      <Link href='/home'>
-        <a>Home!</a>
-      </Link>
     </div>
   )
 }
